@@ -5,7 +5,7 @@ gives a **risk score**, and **explains why** by highlighting suspicious evidence
 threats, prize lures, bad links). It includes a performance dashboard, batch scanning, and PDF/JSON export.
 
 > **Live demo:**   https://phishguard-aroojfatimah.streamlit.app/  
-**Report:** [docs/Project Final Report.pdf](docs/Project Final Report.pdf)
+**Report:** [Final Project Report (PDF)](docs/Project%20Final%20Report.pdf)
 ## Features
 - Paste an email subject + body and get a verdict, ML probability, rule score and combined risk level (Low/Medium/High)
 - Explainable output: rule-based indicators with evidence, highlighted email text, top model terms
