@@ -4,7 +4,7 @@ PhishGuard analyses the text of an email and tells you whether it is likely **le
 gives a **risk score**, and **explains why** by highlighting suspicious evidence (urgency, credential requests,
 threats, prize lures, bad links). It includes a performance dashboard, batch scanning, and PDF/JSON export.
 
-> **Live demo:**   https://phishguard-aroojfatimah.streamlit.app/  **Video demo:** _add link if not deployed_
+> **Live demo:**   https://phishguard-aroojfatimah.streamlit.app/  
 
 ## Features
 - Paste an email subject + body and get a verdict, ML probability, rule score and combined risk level (Low/Medium/High)
