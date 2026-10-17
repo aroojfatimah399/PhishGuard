@@ -1,6 +1,6 @@
 # 🛡️ PhishGuard - Phishing Email Detection System
 
-**Student:** [Arooj Fatima] · **Program:** Cybersecurity
+**Student:** Arooj Fatima · **Program:** Cybersecurity
 
 | | |
 |---|---|
